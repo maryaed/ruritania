@@ -5,4 +5,4 @@
 * And what a commit is
 * And some other basics like that
 * But I haven't put any projects up yet
-* here is [link to my blog] (http://techdocsinpdx.com)
+* here is a [link to my blog] (http://techdocsinpdx.com)
